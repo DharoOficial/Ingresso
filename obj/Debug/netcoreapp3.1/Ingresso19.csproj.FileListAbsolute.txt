@@ -1,0 +1,13 @@
+C:\Users\mercatudo\Documents\site\Ingresso19\bin\Debug\netcoreapp3.1\Ingresso19.exe
+C:\Users\mercatudo\Documents\site\Ingresso19\bin\Debug\netcoreapp3.1\Ingresso19.deps.json
+C:\Users\mercatudo\Documents\site\Ingresso19\bin\Debug\netcoreapp3.1\Ingresso19.runtimeconfig.json
+C:\Users\mercatudo\Documents\site\Ingresso19\bin\Debug\netcoreapp3.1\Ingresso19.runtimeconfig.dev.json
+C:\Users\mercatudo\Documents\site\Ingresso19\bin\Debug\netcoreapp3.1\Ingresso19.dll
+C:\Users\mercatudo\Documents\site\Ingresso19\bin\Debug\netcoreapp3.1\Ingresso19.pdb
+C:\Users\mercatudo\Documents\site\Ingresso19\obj\Debug\netcoreapp3.1\Ingresso19.csprojAssemblyReference.cache
+C:\Users\mercatudo\Documents\site\Ingresso19\obj\Debug\netcoreapp3.1\Ingresso19.csproj.CoreCompileInputs.cache
+C:\Users\mercatudo\Documents\site\Ingresso19\obj\Debug\netcoreapp3.1\Ingresso19.AssemblyInfoInputs.cache
+C:\Users\mercatudo\Documents\site\Ingresso19\obj\Debug\netcoreapp3.1\Ingresso19.AssemblyInfo.cs
+C:\Users\mercatudo\Documents\site\Ingresso19\obj\Debug\netcoreapp3.1\Ingresso19.dll
+C:\Users\mercatudo\Documents\site\Ingresso19\obj\Debug\netcoreapp3.1\Ingresso19.pdb
+C:\Users\mercatudo\Documents\site\Ingresso19\obj\Debug\netcoreapp3.1\Ingresso19.genruntimeconfig.cache
